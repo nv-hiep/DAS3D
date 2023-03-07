@@ -1,2 +1,2 @@
-# DAS3D
-Dust - Gas in 3D
+# Dust and Gas in 3D
+
